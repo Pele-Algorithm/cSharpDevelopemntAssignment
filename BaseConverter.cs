@@ -5,6 +5,7 @@ namespace BaseConverter
    {
        public static void Main()
        {
+	  User();
        }
 	   public static void User()
 	   {
